@@ -1,6 +1,3 @@
-//-------------------------------------------------------HECTOMINDS--------------------------------------------------//
-//--------------------------------------------distance measurement using ir sensor------------------------------------//
-//----------------------------------------------Copyright © 2019 by Hectominds---------------------------------------//
 
 int ir_sensor = A0;       // analog pin is used for input of sensor
 int val = 0;           // variable to store the values from sensor(initially zero)
